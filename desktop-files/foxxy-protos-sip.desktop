@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=protos-sip
+Encoding=UTF-8
+Exec=menuexec "protos-sip -help"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-03-voip-tools;
+X-Foxxy-Package=protos-sip

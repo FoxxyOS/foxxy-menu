@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=miredo
+Encoding=UTF-8
+Exec=menuexec "miredo -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-02-tunneling;
+X-Foxxy-Package=miredo

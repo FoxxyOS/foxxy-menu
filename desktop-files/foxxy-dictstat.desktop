@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dictstat
+Encoding=UTF-8
+Exec=menuexec "dictstat -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Foxxy-Package=pack

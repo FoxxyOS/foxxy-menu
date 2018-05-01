@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=irpass-cdp
+Encoding=UTF-8
+Exec=menuexec "cdp"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-08-route-analysis;
+X-Foxxy-Package=irpas

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=metasploit stop
+Encoding=UTF-8
+Exec=menuexec msfstop
+Icon=foxxy-metasploit.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-09-metasploit-service;
+X-Foxxy-Package=metasploit-framework

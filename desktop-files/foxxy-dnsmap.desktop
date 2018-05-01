@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dnsmap
+Encoding=UTF-8
+Exec=menuexec "dnsmap"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-01-dns-analysis;
+X-Foxxy-Package=dnsmap

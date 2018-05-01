@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rcracki_mt
+Encoding=UTF-8
+Exec=menuexec "rcracki_mt"
+Icon=foxxy-rcracki_mt.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Foxxy-Package=rcracki-mt

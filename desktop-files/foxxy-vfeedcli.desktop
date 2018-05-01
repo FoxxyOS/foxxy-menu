@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=vfeedcli
+Encoding=UTF-8
+Exec=menuexec "vfeedcli"
+Icon=foxxy-vfeedcli.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;
+X-Foxxy-Package=vfeed

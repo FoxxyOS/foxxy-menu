@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=pyrit
+Encoding=UTF-8
+Exec=menuexec "pyrit -h"
+Icon=foxxy-pyrit.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-password-attacks;
+X-Foxxy-Package=pyrit

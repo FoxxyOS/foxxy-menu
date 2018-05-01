@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=nishang
+Encoding=UTF-8
+Exec=menuexec nishang
+Icon=foxxy-nishang.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-03-web-backdoors;
+X-Foxxy-Package=nishang

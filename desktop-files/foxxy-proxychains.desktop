@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=proxychains
+Encoding=UTF-8
+Exec=menuexec "proxychains"
+Icon=foxxy-proxychains.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-02-tunneling;
+X-Foxxy-Package=proxychains

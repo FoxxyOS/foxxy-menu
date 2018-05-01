@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=mfterm
+Encoding=UTF-8
+Exec=menuexec "mfterm -h"
+Icon=foxxy-mfterm.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-03-rfid-nfc-tools;
+X-Foxxy-Package=mfterm

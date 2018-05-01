@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=enumiax
+Encoding=UTF-8
+Exec=menuexec "enumiax -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-03-voip-tools;
+X-Foxxy-Package=enumiax

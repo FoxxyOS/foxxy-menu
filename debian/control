@@ -1,0 +1,17 @@
+Source: foxxy-menu
+Section: foxxy
+Priority: optional
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>
+Build-Depends: debhelper
+Standards-Version: 3.8.4
+
+Package: foxxy-menu
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}, gksu, libdpkg-perl, libfile-fcntllock-perl, xdg-utils
+Breaks: dradis (<< 3.1.0~rc2)
+Replaces: mate-menus
+Description: Foxxy GNU/Linux custom menu
+ This package provides a custom menu for Foxxy GNU/Linux.
+ .
+ It is used by any destkop that complies with the Freedesktop menu
+ specification at http://standards.freedesktop.org/menu-spec/menu-spec-1.0.html

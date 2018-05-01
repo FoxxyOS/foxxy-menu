@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=giskismet
+Encoding=UTF-8
+Exec=menuexec "giskismet -h"
+Icon=foxxy-kismet.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-wireless-tools
+X-Foxxy-Package=giskismet

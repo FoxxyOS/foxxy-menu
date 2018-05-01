@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dradis start
+Encoding=UTF-8
+Exec=menuexec "service dradis start"
+Icon=foxxy-dradis.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-10-dradis-service
+X-Foxxy-Package=dradis

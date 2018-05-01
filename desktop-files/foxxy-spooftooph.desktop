@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=spooftooph
+Encoding=UTF-8
+Exec=menuexec "spooftooph -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-02-bluetooth-tools;
+X-Foxxy-Package=spooftooph

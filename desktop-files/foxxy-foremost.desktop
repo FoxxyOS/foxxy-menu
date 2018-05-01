@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=foremost
+Encoding=UTF-8
+Exec=menuexec "foremost -h"
+Icon=foxxy-foremost.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;
+X-Foxxy-Package=foremost

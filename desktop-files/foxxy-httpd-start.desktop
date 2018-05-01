@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=apache2 start
+Encoding=UTF-8
+Exec=menuexec service apache2 start 
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-02-httpd;
+X-Foxxy-Package=apache2

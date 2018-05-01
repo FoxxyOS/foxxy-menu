@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ettercap-text
+Encoding=UTF-8
+Exec=menuexec "ettercap -h"
+Icon=foxxy-ettercap.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Foxxy-Package=ettercap-text-only

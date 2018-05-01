@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rsmangler
+Encoding=UTF-8
+Exec=menuexec "rsmangler -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-05-profile;
+X-Foxxy-Package=rsmangler

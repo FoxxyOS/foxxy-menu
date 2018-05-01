@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=cisco-torch
+Encoding=UTF-8
+Exec=menuexec "cisco-torch"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-cisco-attacks;02-01-cisco-tools;
+X-Foxxy-Package=cisco-torch

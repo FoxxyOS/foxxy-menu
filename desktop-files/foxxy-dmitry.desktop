@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dmitry
+Encoding=UTF-8
+Exec=menuexec "dmitry"
+Icon=foxxy-dmitry.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Foxxy-Package=dmitry

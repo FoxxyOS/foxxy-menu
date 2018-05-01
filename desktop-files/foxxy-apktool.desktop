@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=apktool
+Encoding=UTF-8
+Exec=menuexec apktool --help 
+Icon=foxxy-apktool.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=07-reverseengineer;
+X-Foxxy-Package=apktool

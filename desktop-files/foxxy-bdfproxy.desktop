@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=bdfproxy
+Encoding=UTF-8
+Exec=menuexec bdfproxy
+Icon=foxxy-bdfproxy.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;10-maintaining-access;
+X-Foxxy-Package=bdfproxy

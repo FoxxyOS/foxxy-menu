@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sqlsus
+Encoding=UTF-8
+Exec=menuexec "sqlsus -h"
+Icon=foxxy-sqlsus.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-Foxxy-Package=sqlsus

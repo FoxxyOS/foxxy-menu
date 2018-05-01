@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=recon-ng
+Encoding=UTF-8
+Exec=menuexec "recon-ng"
+Icon=foxxy-Recon-NG.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Foxxy-Package=recon-ng

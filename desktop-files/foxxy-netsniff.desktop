@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=netsniff-ng
+Encoding=UTF-8
+Exec=menuexec "netsniff-ng -h"
+Icon=foxxy-netsniff-ng.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-01-network-sniffers;
+X-Foxxy-Package=netsniff-ng

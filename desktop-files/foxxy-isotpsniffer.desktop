@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=isotpsniffer
+Encoding=UTF-8
+Exec=menuexec isotpsniffer
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=13-01-can-utils
+X-Foxxy-Package=can-utils

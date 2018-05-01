@@ -1,0 +1,10 @@
+menus/foxxy-applications.menu etc/xdg/menus/applications-merged/
+menus/anon-surf.menu etc/xdg/menus/applications-merged/
+menus/mate-applications.menu etc/xdg/menus/
+bin/* usr/bin/
+desktop-directories/*.directory usr/share/desktop-directories/
+desktop-files/*.desktop usr/share/foxxy-menu/applications/
+apt.conf.d/99foxxy-menu etc/apt/apt.conf.d/
+update-foxxy-menu usr/share/foxxy-menu/
+menu-icons/* usr/share/icons/
+dconf/foxxy-menu etc/dconf/db/local.d/

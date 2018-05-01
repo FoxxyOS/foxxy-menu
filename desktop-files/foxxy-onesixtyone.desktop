@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=onesixtyone
+Encoding=UTF-8
+Exec=menuexec "onesixtyone"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-12-snmp-analysis;05-01-online-attacks;
+X-Foxxy-Package=onesixtyone

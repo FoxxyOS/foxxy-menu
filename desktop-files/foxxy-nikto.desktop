@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=nikto
+Encoding=UTF-8
+Exec=menuexec "nikto -h"
+Icon=foxxy-nikto.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-05-web-vulnerability-scanners
+X-Foxxy-Package=nikto

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=wifite
+Encoding=UTF-8
+Exec=menuexec "wifite --help"
+Icon=foxxy-wifite.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;
+X-Foxxy-Package=wifite

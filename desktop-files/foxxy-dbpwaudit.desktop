@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dbpwaudit
+Encoding=UTF-8
+Exec=menuexec "dbpwaudit"
+Icon=foxxy-dbpwaudit.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;05-01-online-attacks;
+X-Foxxy-Package=dbpwaudit

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=caringcaribou
+Encoding=UTF-8
+Exec=sh -c "echo 'SocketCAN tools';echo;echo;cd /opt/car-hacking/caringcaribou/tool;./cc.py -h;ls --color;bash"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=13-automotive
+X-Foxxy-Package=kayak

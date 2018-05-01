@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Seren
+Encoding=UTF-8
+Exec=seren
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=Network;InstantMessaging;Chat;FileTransfer;Security
+X-Foxxy-Package=seren

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sparta
+Encoding=UTF-8
+Exec=menuexec "sparta"
+Icon=foxxy-sparta.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Foxxy-Package=sparta

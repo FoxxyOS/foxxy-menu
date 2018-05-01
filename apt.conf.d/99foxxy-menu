@@ -1,0 +1,1 @@
+DPkg::Post-Invoke { "[ ! -x /usr/share/foxxy-menu/update-foxxy-menu ] || /usr/share/foxxy-menu/update-foxxy-menu wait_dpkg"; }

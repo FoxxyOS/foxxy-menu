@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=airgeddon
+Encoding=UTF-8
+Exec=menuexec "/usr/share/airgeddon/airgeddon.sh"
+Icon=foxxy-airgeddon.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-wireless-tools;
+X-Foxxy-Package=airgeddon

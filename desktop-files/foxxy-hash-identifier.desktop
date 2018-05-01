@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=hash-identifier
+Encoding=UTF-8
+Exec=menuexec "hash-identifier"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Foxxy-Package=hash-identifier

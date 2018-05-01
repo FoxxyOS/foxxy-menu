@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=crackle
+Encoding=UTF-8
+Exec=menuexec "crackle"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;06-02-bluetooth-tools;
+X-Foxxy-Package=crackle

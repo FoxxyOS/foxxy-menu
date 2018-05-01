@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=httrack
+Encoding=UTF-8
+Exec=menuexec "httrack -h"
+Icon=foxxy-sqlmap.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-webapp-analysis;
+X-Foxxy-Package=httrack

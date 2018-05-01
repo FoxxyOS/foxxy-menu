@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=powerfuzzer
+Encoding=UTF-8
+Exec=menuexecg "powerfuzzer"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=02-02-fuzzers;
+X-Foxxy-Package=powerfuzzer

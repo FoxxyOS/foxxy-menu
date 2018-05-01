@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=chkrootkit
+Encoding=UTF-8
+Exec=menuexec "chkrootkit -h"
+Icon=foxxy-chkrootkit.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;
+X-Foxxy-Package=chkrootkit

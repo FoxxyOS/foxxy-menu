@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=netmask
+Encoding=UTF-8
+Exec=menuexec "netmask -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-08-route-analysis;
+X-Foxxy-Package=netmask

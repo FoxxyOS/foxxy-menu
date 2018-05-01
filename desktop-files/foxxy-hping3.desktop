@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=hping3
+Encoding=UTF-8
+Exec=menuexec "hping3 -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-02-identify-live-hosts;
+X-Foxxy-Package=hping3

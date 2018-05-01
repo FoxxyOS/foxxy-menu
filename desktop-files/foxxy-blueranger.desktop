@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=blueranger
+Encoding=UTF-8
+Exec=menuexec blueranger.sh
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-02-bluetooth-tools;
+X-Foxxy-Package=blueranger

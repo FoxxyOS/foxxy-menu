@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=autopsy
+Encoding=UTF-8
+Exec=menuexec autopsy
+Icon=foxxy-autopsy.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics
+X-Foxxy-Package=autopsy

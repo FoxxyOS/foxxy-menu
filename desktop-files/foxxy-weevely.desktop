@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=weevely
+Encoding=UTF-8
+Exec=menuexec "weevely"
+Icon=foxxy-weevely.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-03-web-backdoors;top10
+X-Foxxy-Package=weevely

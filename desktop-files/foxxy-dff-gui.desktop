@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dff gui
+Encoding=UTF-8
+Exec=menuexec "dff -g"
+Icon=foxxy-dff.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;top10
+X-Foxxy-Package=dff

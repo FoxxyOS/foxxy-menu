@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=clusterd
+Encoding=UTF-8
+Exec=menuexec "clusterd -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-05-web-vulnerability-scanners;
+X-Foxxy-Package=clusterd

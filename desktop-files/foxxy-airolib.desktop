@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=airolib-ng
+Encoding=UTF-8
+Exec=menuexec "airolib-ng --help"
+Icon=foxxy-aircrack.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-wireless-tools;
+X-Foxxy-Package=aircrack-ng

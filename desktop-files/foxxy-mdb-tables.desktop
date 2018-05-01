@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=mdb-tables
+Encoding=UTF-8
+Exec=menuexec mdb-tables 
+Icon=foxxy-bdb-sql.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-Foxxy-Package=mdbtools

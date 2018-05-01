@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=policygen
+Encoding=UTF-8
+Exec=menuexec "policygen -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-05-profile;
+X-Foxxy-Package=pack

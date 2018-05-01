@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=plecost
+Encoding=UTF-8
+Exec=menuexec "plecost -h"
+Icon=foxxy-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-01-cms-identification;
+X-Foxxy-Package=plecost

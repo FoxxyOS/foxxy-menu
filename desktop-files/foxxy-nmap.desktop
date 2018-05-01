@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=nmap
+Encoding=UTF-8
+Exec=menuexec "nmap"
+Icon=foxxy-nmap.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;01-04-network-scanners;
+X-Foxxy-Package=nmap
